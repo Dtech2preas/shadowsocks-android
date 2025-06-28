@@ -1,0 +1,9 @@
+[
+  {
+    "name": "Japan Server",
+    "host": "jp.free-ss.xyz",
+    "port": 443,
+    "password": "password123",
+    "method": "aes-256-gcm"
+  }
+]
